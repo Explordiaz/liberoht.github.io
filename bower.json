@@ -1,0 +1,23 @@
+{
+  "name": "default_local_website",
+  "authors": [
+    "liberoht <liberoht@users.noreply.github.com>"
+  ],
+  "description": "Defaut local website",
+  "main": "index.html",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7"
+  },
+  "license": "MIT",
+  "homepage": "http://localhost",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "node_modules",
+    "contents/bower_components",
+    "test",
+    "tests"
+  ]
+}
